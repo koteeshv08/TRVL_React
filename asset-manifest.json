@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TRVL_React/static/css/main.5b593041.chunk.css",
+    "main.js": "/TRVL_React/static/js/main.8e582831.chunk.js",
+    "main.js.map": "/TRVL_React/static/js/main.8e582831.chunk.js.map",
+    "runtime-main.js": "/TRVL_React/static/js/runtime-main.129c82f7.js",
+    "runtime-main.js.map": "/TRVL_React/static/js/runtime-main.129c82f7.js.map",
+    "static/js/2.cef1a328.chunk.js": "/TRVL_React/static/js/2.cef1a328.chunk.js",
+    "static/js/2.cef1a328.chunk.js.map": "/TRVL_React/static/js/2.cef1a328.chunk.js.map",
+    "index.html": "/TRVL_React/index.html",
+    "static/css/main.5b593041.chunk.css.map": "/TRVL_React/static/css/main.5b593041.chunk.css.map",
+    "static/js/2.cef1a328.chunk.js.LICENSE.txt": "/TRVL_React/static/js/2.cef1a328.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TRVL_React/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.129c82f7.js",
+    "static/js/2.cef1a328.chunk.js",
+    "static/css/main.5b593041.chunk.css",
+    "static/js/main.8e582831.chunk.js"
+  ]
+}
