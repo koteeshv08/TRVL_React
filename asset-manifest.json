@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TRVL_React/static/css/main.5b593041.chunk.css",
-    "main.js": "/TRVL_React/static/js/main.8e582831.chunk.js",
-    "main.js.map": "/TRVL_React/static/js/main.8e582831.chunk.js.map",
+    "main.js": "/TRVL_React/static/js/main.446a46c5.chunk.js",
+    "main.js.map": "/TRVL_React/static/js/main.446a46c5.chunk.js.map",
     "runtime-main.js": "/TRVL_React/static/js/runtime-main.129c82f7.js",
     "runtime-main.js.map": "/TRVL_React/static/js/runtime-main.129c82f7.js.map",
     "static/js/2.cef1a328.chunk.js": "/TRVL_React/static/js/2.cef1a328.chunk.js",
@@ -10,12 +10,16 @@
     "index.html": "/TRVL_React/index.html",
     "static/css/main.5b593041.chunk.css.map": "/TRVL_React/static/css/main.5b593041.chunk.css.map",
     "static/js/2.cef1a328.chunk.js.LICENSE.txt": "/TRVL_React/static/js/2.cef1a328.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/TRVL_React/static/media/img-8.fabdf94d.jpg"
+    "static/media/App.css": "/TRVL_React/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/TRVL_React/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/TRVL_React/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/TRVL_React/static/media/img-9.f97f588f.jpg",
+    "static/media/video-1.59e75226.mp4": "/TRVL_React/static/media/video-1.59e75226.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.129c82f7.js",
     "static/js/2.cef1a328.chunk.js",
     "static/css/main.5b593041.chunk.css",
-    "static/js/main.8e582831.chunk.js"
+    "static/js/main.446a46c5.chunk.js"
   ]
 }
