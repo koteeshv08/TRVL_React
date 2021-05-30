@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TRVL_React/static/css/main.5b593041.chunk.css",
-    "main.js": "/TRVL_React/static/js/main.446a46c5.chunk.js",
-    "main.js.map": "/TRVL_React/static/js/main.446a46c5.chunk.js.map",
+    "main.js": "/TRVL_React/static/js/main.eb32cb3a.chunk.js",
+    "main.js.map": "/TRVL_React/static/js/main.eb32cb3a.chunk.js.map",
     "runtime-main.js": "/TRVL_React/static/js/runtime-main.129c82f7.js",
     "runtime-main.js.map": "/TRVL_React/static/js/runtime-main.129c82f7.js.map",
-    "static/js/2.cef1a328.chunk.js": "/TRVL_React/static/js/2.cef1a328.chunk.js",
-    "static/js/2.cef1a328.chunk.js.map": "/TRVL_React/static/js/2.cef1a328.chunk.js.map",
+    "static/js/2.24af6d5d.chunk.js": "/TRVL_React/static/js/2.24af6d5d.chunk.js",
+    "static/js/2.24af6d5d.chunk.js.map": "/TRVL_React/static/js/2.24af6d5d.chunk.js.map",
     "index.html": "/TRVL_React/index.html",
     "static/css/main.5b593041.chunk.css.map": "/TRVL_React/static/css/main.5b593041.chunk.css.map",
-    "static/js/2.cef1a328.chunk.js.LICENSE.txt": "/TRVL_React/static/js/2.cef1a328.chunk.js.LICENSE.txt",
+    "static/js/2.24af6d5d.chunk.js.LICENSE.txt": "/TRVL_React/static/js/2.24af6d5d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/TRVL_React/static/media/img-8.fabdf94d.jpg",
     "static/media/img-3.6d683c0e.jpg": "/TRVL_React/static/media/img-3.6d683c0e.jpg",
     "static/media/img-4.a31875b7.jpg": "/TRVL_React/static/media/img-4.a31875b7.jpg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.129c82f7.js",
-    "static/js/2.cef1a328.chunk.js",
+    "static/js/2.24af6d5d.chunk.js",
     "static/css/main.5b593041.chunk.css",
-    "static/js/main.446a46c5.chunk.js"
+    "static/js/main.eb32cb3a.chunk.js"
   ]
 }
